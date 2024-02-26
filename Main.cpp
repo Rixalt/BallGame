@@ -1,4 +1,5 @@
 #include <SFML/Graphics/RenderWindow.hpp>
+#include <SFML/Window/Event.hpp>
 #include <SFML/Window/VideoMode.hpp>
 #include <iostream>
 #include <stdio.h>
@@ -12,6 +13,14 @@ sf::RenderWindow window(sf::VideoMode(WIDTH,HEIGHT), "BallGame");
 using namespace std;
 
 int main(){
-    cout<<"123"<<endl;
+    while (window.isOpen()) {
+        sf::Event event;
+        while (window.pollEvent(event)) {
+            if (event.type == sf::Event::Closed) {
+                window.close();
+            }
+        }
+        window.display();
+    }
     return 0;
 }
