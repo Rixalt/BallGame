@@ -3,6 +3,8 @@
 
 CMakeFiles/BallGame.dir/Main.cpp.o
  /home/rix/Документи/Programming/C++/BallGame/Main.cpp
+ /home/rix/Документи/Programming/C++/BallGame/Ball.cpp
+ /home/rix/Документи/Programming/C++/BallGame/Platforms.cpp
  /usr/include/SFML/Config.hpp
  /usr/include/SFML/Graphics.hpp
  /usr/include/SFML/Graphics/BlendMode.hpp

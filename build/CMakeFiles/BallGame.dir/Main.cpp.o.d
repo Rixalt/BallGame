@@ -224,4 +224,6 @@ CMakeFiles/BallGame.dir/Main.cpp.o: \
  /usr/include/SFML/Graphics/Glsl.hpp /usr/include/SFML/Graphics/Glsl.inl \
  /usr/include/SFML/Graphics/Sprite.hpp \
  /usr/include/SFML/Graphics/Text.hpp \
- /usr/include/SFML/Graphics/VertexBuffer.hpp
+ /usr/include/SFML/Graphics/VertexBuffer.hpp \
+ /home/rix/Документи/Programming/C++/BallGame/Ball.cpp \
+ /home/rix/Документи/Programming/C++/BallGame/Platforms.cpp
