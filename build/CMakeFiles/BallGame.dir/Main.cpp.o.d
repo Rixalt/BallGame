@@ -181,7 +181,11 @@ CMakeFiles/BallGame.dir/Main.cpp.o: \
  /usr/include/c++/13.2.1/bits/locale_conv.h \
  /usr/include/SFML/System/Utf.inl /usr/include/c++/13.2.1/iterator \
  /usr/include/c++/13.2.1/bits/stream_iterator.h \
- /usr/include/SFML/System/String.inl /usr/include/c++/13.2.1/iostream \
+ /usr/include/SFML/System/String.inl /usr/include/SFML/Window/Event.hpp \
+ /usr/include/SFML/Window/Joystick.hpp \
+ /usr/include/SFML/Window/Keyboard.hpp /usr/include/SFML/Window/Mouse.hpp \
+ /usr/include/SFML/Window/Sensor.hpp /usr/include/SFML/System/Vector3.hpp \
+ /usr/include/SFML/System/Vector3.inl /usr/include/c++/13.2.1/iostream \
  /usr/include/c++/13.2.1/ostream /usr/include/c++/13.2.1/ios \
  /usr/include/c++/13.2.1/bits/basic_ios.h \
  /usr/include/c++/13.2.1/bits/basic_ios.tcc \
@@ -198,13 +202,8 @@ CMakeFiles/BallGame.dir/Main.cpp.o: \
  /usr/include/SFML/System/ThreadLocal.hpp \
  /usr/include/SFML/System/ThreadLocalPtr.hpp \
  /usr/include/SFML/System/ThreadLocalPtr.inl \
- /usr/include/SFML/System/Vector3.hpp \
- /usr/include/SFML/System/Vector3.inl \
  /usr/include/SFML/Window/Clipboard.hpp \
- /usr/include/SFML/Window/Context.hpp /usr/include/SFML/Window/Event.hpp \
- /usr/include/SFML/Window/Joystick.hpp \
- /usr/include/SFML/Window/Keyboard.hpp /usr/include/SFML/Window/Mouse.hpp \
- /usr/include/SFML/Window/Sensor.hpp /usr/include/SFML/Window/Touch.hpp \
+ /usr/include/SFML/Window/Context.hpp /usr/include/SFML/Window/Touch.hpp \
  /usr/include/SFML/Graphics/CircleShape.hpp \
  /usr/include/SFML/Graphics/Shape.hpp \
  /usr/include/SFML/Graphics/Drawable.hpp \
