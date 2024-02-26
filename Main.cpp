@@ -12,6 +12,6 @@ sf::RenderWindow window(sf::VideoMode(WIDTH,HEIGHT), "BallGame");
 using namespace std;
 
 int main(){
-    
+    cout<<"123"<<endl;
     return 0;
 }

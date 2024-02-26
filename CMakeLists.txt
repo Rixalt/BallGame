@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.1)
+project(BallGame)
+find_package(SFML 2.5 COMPONENTS graphics window system REQUIRED)
+add_executable(BallGame Main.cpp)
+target_link_libraries(BallGame sfml-graphics sfml-window sfml-system)

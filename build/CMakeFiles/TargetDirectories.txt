@@ -1,0 +1,3 @@
+/home/rix/Документи/Programming/C++/BallGame/build/CMakeFiles/BallGame.dir
+/home/rix/Документи/Programming/C++/BallGame/build/CMakeFiles/edit_cache.dir
+/home/rix/Документи/Programming/C++/BallGame/build/CMakeFiles/rebuild_cache.dir
